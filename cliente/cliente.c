@@ -56,7 +56,7 @@ int main(){
 			game_start();
 		}
 		else if(ans == SERVER_DOWN){
-			fprintf(stderr,"Servido nao encontrado\n");
+			fprintf(stderr,"Servidor nao encontrado\n");
 		}
 		else if(ans == SERVER_FULL){
 			fprintf(stderr,"Capacidade maxima do servidor atingida\n");
