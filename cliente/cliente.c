@@ -42,6 +42,8 @@ void game_start(){
 			printf("digita ai, vei\n");
 		}
 	}
+
+	free(msg);
 }
 
 int main(){
