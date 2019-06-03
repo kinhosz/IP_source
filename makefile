@@ -1,5 +1,5 @@
 # client code directory name
-CLIENTDIR := examples/simpleChat/client
+CLIENTDIR := client
 
 # server code directory name
 SERVERDIR := server
